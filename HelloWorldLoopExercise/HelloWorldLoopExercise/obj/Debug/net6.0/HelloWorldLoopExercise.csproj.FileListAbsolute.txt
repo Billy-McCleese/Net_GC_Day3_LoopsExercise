@@ -1,0 +1,15 @@
+C:\Git\Net_GC_Day3_LoopsExercise\HelloWorldLoopExercise\HelloWorldLoopExercise\bin\Debug\net6.0\HelloWorldLoopExercise.exe
+C:\Git\Net_GC_Day3_LoopsExercise\HelloWorldLoopExercise\HelloWorldLoopExercise\bin\Debug\net6.0\HelloWorldLoopExercise.deps.json
+C:\Git\Net_GC_Day3_LoopsExercise\HelloWorldLoopExercise\HelloWorldLoopExercise\bin\Debug\net6.0\HelloWorldLoopExercise.runtimeconfig.json
+C:\Git\Net_GC_Day3_LoopsExercise\HelloWorldLoopExercise\HelloWorldLoopExercise\bin\Debug\net6.0\HelloWorldLoopExercise.dll
+C:\Git\Net_GC_Day3_LoopsExercise\HelloWorldLoopExercise\HelloWorldLoopExercise\bin\Debug\net6.0\HelloWorldLoopExercise.pdb
+C:\Git\Net_GC_Day3_LoopsExercise\HelloWorldLoopExercise\HelloWorldLoopExercise\obj\Debug\net6.0\HelloWorldLoopExercise.csproj.AssemblyReference.cache
+C:\Git\Net_GC_Day3_LoopsExercise\HelloWorldLoopExercise\HelloWorldLoopExercise\obj\Debug\net6.0\HelloWorldLoopExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Net_GC_Day3_LoopsExercise\HelloWorldLoopExercise\HelloWorldLoopExercise\obj\Debug\net6.0\HelloWorldLoopExercise.AssemblyInfoInputs.cache
+C:\Git\Net_GC_Day3_LoopsExercise\HelloWorldLoopExercise\HelloWorldLoopExercise\obj\Debug\net6.0\HelloWorldLoopExercise.AssemblyInfo.cs
+C:\Git\Net_GC_Day3_LoopsExercise\HelloWorldLoopExercise\HelloWorldLoopExercise\obj\Debug\net6.0\HelloWorldLoopExercise.csproj.CoreCompileInputs.cache
+C:\Git\Net_GC_Day3_LoopsExercise\HelloWorldLoopExercise\HelloWorldLoopExercise\obj\Debug\net6.0\HelloWorldLoopExercise.dll
+C:\Git\Net_GC_Day3_LoopsExercise\HelloWorldLoopExercise\HelloWorldLoopExercise\obj\Debug\net6.0\refint\HelloWorldLoopExercise.dll
+C:\Git\Net_GC_Day3_LoopsExercise\HelloWorldLoopExercise\HelloWorldLoopExercise\obj\Debug\net6.0\HelloWorldLoopExercise.pdb
+C:\Git\Net_GC_Day3_LoopsExercise\HelloWorldLoopExercise\HelloWorldLoopExercise\obj\Debug\net6.0\HelloWorldLoopExercise.genruntimeconfig.cache
+C:\Git\Net_GC_Day3_LoopsExercise\HelloWorldLoopExercise\HelloWorldLoopExercise\obj\Debug\net6.0\ref\HelloWorldLoopExercise.dll

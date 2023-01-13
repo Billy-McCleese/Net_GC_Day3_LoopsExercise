@@ -1,0 +1,15 @@
+C:\Git\Net_GC_Day3_LoopsExercise\PasscodeApp\PasscodeApp\bin\Debug\net6.0\PasscodeApp.exe
+C:\Git\Net_GC_Day3_LoopsExercise\PasscodeApp\PasscodeApp\bin\Debug\net6.0\PasscodeApp.deps.json
+C:\Git\Net_GC_Day3_LoopsExercise\PasscodeApp\PasscodeApp\bin\Debug\net6.0\PasscodeApp.runtimeconfig.json
+C:\Git\Net_GC_Day3_LoopsExercise\PasscodeApp\PasscodeApp\bin\Debug\net6.0\PasscodeApp.dll
+C:\Git\Net_GC_Day3_LoopsExercise\PasscodeApp\PasscodeApp\bin\Debug\net6.0\PasscodeApp.pdb
+C:\Git\Net_GC_Day3_LoopsExercise\PasscodeApp\PasscodeApp\obj\Debug\net6.0\PasscodeApp.csproj.AssemblyReference.cache
+C:\Git\Net_GC_Day3_LoopsExercise\PasscodeApp\PasscodeApp\obj\Debug\net6.0\PasscodeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Net_GC_Day3_LoopsExercise\PasscodeApp\PasscodeApp\obj\Debug\net6.0\PasscodeApp.AssemblyInfoInputs.cache
+C:\Git\Net_GC_Day3_LoopsExercise\PasscodeApp\PasscodeApp\obj\Debug\net6.0\PasscodeApp.AssemblyInfo.cs
+C:\Git\Net_GC_Day3_LoopsExercise\PasscodeApp\PasscodeApp\obj\Debug\net6.0\PasscodeApp.csproj.CoreCompileInputs.cache
+C:\Git\Net_GC_Day3_LoopsExercise\PasscodeApp\PasscodeApp\obj\Debug\net6.0\PasscodeApp.dll
+C:\Git\Net_GC_Day3_LoopsExercise\PasscodeApp\PasscodeApp\obj\Debug\net6.0\refint\PasscodeApp.dll
+C:\Git\Net_GC_Day3_LoopsExercise\PasscodeApp\PasscodeApp\obj\Debug\net6.0\PasscodeApp.pdb
+C:\Git\Net_GC_Day3_LoopsExercise\PasscodeApp\PasscodeApp\obj\Debug\net6.0\PasscodeApp.genruntimeconfig.cache
+C:\Git\Net_GC_Day3_LoopsExercise\PasscodeApp\PasscodeApp\obj\Debug\net6.0\ref\PasscodeApp.dll

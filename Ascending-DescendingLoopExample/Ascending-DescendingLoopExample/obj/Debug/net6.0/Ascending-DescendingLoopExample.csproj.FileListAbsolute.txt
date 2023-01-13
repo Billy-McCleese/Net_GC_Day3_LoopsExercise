@@ -1,0 +1,15 @@
+C:\Git\Net_GC_Day3_LoopsExercise\Ascending-DescendingLoopExample\Ascending-DescendingLoopExample\bin\Debug\net6.0\Ascending-DescendingLoopExample.exe
+C:\Git\Net_GC_Day3_LoopsExercise\Ascending-DescendingLoopExample\Ascending-DescendingLoopExample\bin\Debug\net6.0\Ascending-DescendingLoopExample.deps.json
+C:\Git\Net_GC_Day3_LoopsExercise\Ascending-DescendingLoopExample\Ascending-DescendingLoopExample\bin\Debug\net6.0\Ascending-DescendingLoopExample.runtimeconfig.json
+C:\Git\Net_GC_Day3_LoopsExercise\Ascending-DescendingLoopExample\Ascending-DescendingLoopExample\bin\Debug\net6.0\Ascending-DescendingLoopExample.dll
+C:\Git\Net_GC_Day3_LoopsExercise\Ascending-DescendingLoopExample\Ascending-DescendingLoopExample\bin\Debug\net6.0\Ascending-DescendingLoopExample.pdb
+C:\Git\Net_GC_Day3_LoopsExercise\Ascending-DescendingLoopExample\Ascending-DescendingLoopExample\obj\Debug\net6.0\Ascending-DescendingLoopExample.csproj.AssemblyReference.cache
+C:\Git\Net_GC_Day3_LoopsExercise\Ascending-DescendingLoopExample\Ascending-DescendingLoopExample\obj\Debug\net6.0\Ascending-DescendingLoopExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Net_GC_Day3_LoopsExercise\Ascending-DescendingLoopExample\Ascending-DescendingLoopExample\obj\Debug\net6.0\Ascending-DescendingLoopExample.AssemblyInfoInputs.cache
+C:\Git\Net_GC_Day3_LoopsExercise\Ascending-DescendingLoopExample\Ascending-DescendingLoopExample\obj\Debug\net6.0\Ascending-DescendingLoopExample.AssemblyInfo.cs
+C:\Git\Net_GC_Day3_LoopsExercise\Ascending-DescendingLoopExample\Ascending-DescendingLoopExample\obj\Debug\net6.0\Ascending-DescendingLoopExample.csproj.CoreCompileInputs.cache
+C:\Git\Net_GC_Day3_LoopsExercise\Ascending-DescendingLoopExample\Ascending-DescendingLoopExample\obj\Debug\net6.0\Ascending-DescendingLoopExample.dll
+C:\Git\Net_GC_Day3_LoopsExercise\Ascending-DescendingLoopExample\Ascending-DescendingLoopExample\obj\Debug\net6.0\refint\Ascending-DescendingLoopExample.dll
+C:\Git\Net_GC_Day3_LoopsExercise\Ascending-DescendingLoopExample\Ascending-DescendingLoopExample\obj\Debug\net6.0\Ascending-DescendingLoopExample.pdb
+C:\Git\Net_GC_Day3_LoopsExercise\Ascending-DescendingLoopExample\Ascending-DescendingLoopExample\obj\Debug\net6.0\Ascending-DescendingLoopExample.genruntimeconfig.cache
+C:\Git\Net_GC_Day3_LoopsExercise\Ascending-DescendingLoopExample\Ascending-DescendingLoopExample\obj\Debug\net6.0\ref\Ascending-DescendingLoopExample.dll
